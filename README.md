@@ -1,8 +1,6 @@
 📊 Projeto de Análise do IDH Brasileiro - Pipeline de Engenharia de Dados
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Pandas-1.5%252B-orange
-https://img.shields.io/badge/Jupyter-Notebook-orange
-https://img.shields.io/badge/License-MIT-green
+
+
 
 📋 Sobre o Projeto
 Este projeto implementa um pipeline  de engenharia de dados para análise do Índice de Desenvolvimento Humano (IDH) municipal brasileiro. O objetivo deste projeto é fornecer uma base introdutória, porém sólida para a transformação, analise e visualização de dados de dados socioeconômicos de forma automatizada e reprodutível, utilizando as melhores práticas do setor, bem como a entrega prática dos meus estudos sobre a área de engenharia de dados. Tive como base de inspiração algumas publicações nessa área, cursos e experiências de estudo que obtive ao longo dos últimos meses.
@@ -230,3 +228,4 @@ Inspirado no Atlas do Desenvolvimento Humano (PNUD)
 
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
+
